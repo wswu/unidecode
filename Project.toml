@@ -1,0 +1,6 @@
+name = "Unidecode"
+uuid = "77de7ad8-3fe5-462e-9925-420ac1ce66b8"
+version = "0.1.0"
+
+[deps]
+Printf = "de0858da-6303-5e67-8744-51eddeeeb8d7"
